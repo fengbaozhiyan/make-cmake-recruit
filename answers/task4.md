@@ -18,4 +18,4 @@ CMake **不是编译器**，它是元构建工具，用来生成Makefile/Ninja�
 3. 项目规模越大，全量重编译的时间开销越严重。虽然全量编译结果正确，但是效率很差。
 
 check.sh 的运行结果：
-![](check_result.png)
+![check.sh运行结果](check_result.png)
